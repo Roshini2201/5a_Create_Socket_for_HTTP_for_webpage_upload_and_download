@@ -20,8 +20,8 @@ To write a PYTHON program for socket for HTTP for web page upload and download.
 <BR>
 ## PROGRAM :-
 ```
-Developed no : NITHYA D
-Reg.no : 212223240110
+Developed no : ROSHINI S
+Reg.no : 212223240142
 
 import socket
 
